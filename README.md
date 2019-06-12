@@ -2,7 +2,7 @@
 
 
 ## password-generator
-make simple alias as: p3="/usr/bin/python3.6"
+make simple alias as: p3="/usr/bin/python3.6" <p>
 and start command for write passwords into file: p3 passgen.py >> pass.log
 
 ## passhword-hasher
