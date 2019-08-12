@@ -1,0 +1,44 @@
+[ppak-1]
+srvg01-kasp01vm    ansible_host=172.12.32.10
+srvg01-kasp02vm    ansible_host=172.12.32.12
+
+[ppak-2]
+srvg02-drweb01vm  ansible_host=172.12.32.11
+srvg02-drweb02vm  ansible_host=172.12.32.13
+
+[ppak-3]
+srvg03-01vm   ansible_host=172.12.32.14
+srvg03-02vm   ansible_host=172.12.32.15
+
+[ppak-4]
+srvg04-01vm    ansible_host=172.12.32.16
+srvg04-02vm    ansible_host=172.12.32.17
+srvg04-03vm    ansible_host=172.12.32.18
+srvg04-04vm    ansible_host=172.12.32.19
+srvg04-05vm    ansible_host=172.12.32.21
+srvg04-06vm    ansible_host=172.12.32.22
+srvg04-07vm    ansible_host=172.12.32.23
+srvg04-08vm    ansible_host=172.12.32.24
+srvg04-09vm    ansible_host=172.12.32.25
+srvg04-10vm    ansible_host=172.12.32.26
+srvg04-11vm    ansible_host=172.12.32.27
+srvg04-12vm    ansible_host=172.12.32.28
+srvg04-13vm    ansible_host=172.12.32.29
+srvg04-14vm    ansible_host=172.12.32.30
+
+[ppak-5]
+srvg05-01vm  ansible_host=172.12.32.31
+srvg05-02vm  ansible_host=172.12.32.32
+srvg05-03vm  ansible_host=172.12.32.33
+srvg05-04vm  ansible_host=172.12.32.34
+srvg05-05vm  ansible_host=172.12.32.35
+srvg05-06vm  ansible_host=172.12.32.36
+srvg05-07vm  ansible_host=172.12.32.37
+srvg05-08vm  ansible_host=172.12.32.38
+srvg05-09vm  ansible_host=172.12.32.39
+srvg05-10vm  ansible_host=172.12.32.6
+srvg05-11vm  ansible_host=172.12.32.2
+srvg05-12vm  ansible_host=172.12.32.3
+srvg05-13vm  ansible_host=172.12.32.4
+srvg05-14vm  ansible_host=172.12.32.5
+
