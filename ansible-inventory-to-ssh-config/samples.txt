@@ -1,4 +1,0 @@
-grep ansible_host <file_path_and_name> | sed 's/=/ /g' | awk -F" " 'BEGIN{printf "<start_template>\n"} {printf "Host %s\n Hostname %s\n",$1,$3} END{printf "<end_template>"}' >> ~/.ssh/config
-
-
-
